@@ -1,4 +1,4 @@
-**REAC JS TUTORIAL**
+#REAC JS TUTORIAL
 
 This is my starting journey with React JS. Here i will upload all my experience from the journey of learning React. 
 
