@@ -1,9 +1,10 @@
 import './App.css';
 
 function App() {
+  const myName = "Kalin";
   return (
     <div className="App">
-      <h1>Hello World, React!</h1>
+      <h1>Hello, {myName}!</h1>
     </div>
   );
 }
